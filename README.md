@@ -2,11 +2,11 @@
 
 # 🚀️ Projeto realizado no final do bloco 3
 
-<h2 style="text-align: center;"> 💚️ Resultado 💚️ </h2>
+## 💚️ Resultado 💚️
 <img src="./project-lessons-learned.gif">
 <img src="./resultado-do-projeto.png">
----
 
+---
 ### Lista de requisitos
 
 ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
