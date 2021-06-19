@@ -7,6 +7,15 @@
 <img src="./resultado-do-projeto.png">
 
 ---
+## Habilidades
+
+Neste projeto, você será capaz de:
+
+* Utiizar _HTML_ para construir páginas WEB.
+* Utilizar _HTML_ semântico para tornar sua páigna mais acessível e melhor ranqueada.
+* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
+
+---
 ### Lista de requisitos
 
 ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
